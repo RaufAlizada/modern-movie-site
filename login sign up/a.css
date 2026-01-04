@@ -1,0 +1,108 @@
+.first-box {
+    width: 350px;
+    height: 405px;
+    background-color: #151f30;
+    border-radius: 16px;
+    margin-right: 10px;
+}
+
+.first-box-h3 {
+    padding: 30px;
+    font-size: 25px;
+    color: white;
+}
+
+.first-box-line-1 {
+    position: relative;
+    top: -30px;
+    left: 25px;
+    width: 300px;
+    height: 1px;
+    background-color: #182943;
+}
+
+.first-box-line-2 {
+    position: relative;
+    top: -30px;
+    left: 25px;
+    width: 300px;
+    height: 1px;
+    background-color: #182943;
+}
+
+.first-box-h1 {
+    color: white;
+    position: relative;
+    top: -40px;
+    left: 25px;
+}
+
+.first-box-p {
+    font-size: 20px;
+    position: absolute;
+    top: -10px;
+    left: 90px;
+}
+
+.button-1 {
+    width: 260px;
+    height: 55px;
+    background-color: #131720;
+    border-radius: 16px;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -45px;
+    left: 45px;
+}
+
+.button-1 a {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+
+.plans-box ul {
+    list-style-type: none;
+    color: white;
+    position: relative;
+    top: -30px;
+    left: -20px;
+}
+
+.plans-box ul li {
+    padding: 6px;
+}
+
+.fa-check {
+    color: #29b474;
+    font-size: 12px;
+}
+
+.fa-x {
+    color: red;
+    font-size: 10px;
+}
+
+.plans-box{
+    display: flex;
+}
+
+.button-1:hover {
+    background-color: #2b73d4;
+}
+
+.blue-box{
+    background-color: #2b73d4;
+}
+
+.premium-line{
+    background-color: #265fad;
+}
+
+.blue-box-button:hover{
+    background-color: #1f3e69;
+}
